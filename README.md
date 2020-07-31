@@ -1,0 +1,2 @@
+# raksix.ml
+Kişisel Websitem
