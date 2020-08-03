@@ -1,6 +1,6 @@
 # raksix.ml
 Kişisel Websitem
 
-http://raksix.ml/
+https://raksix.wtf/
 
 
